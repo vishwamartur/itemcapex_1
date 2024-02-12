@@ -1,0 +1,45 @@
+/* Define some styles for the App component */
+.App {
+  /* Set the display to flex */
+  display: flex;
+  /* Align the items to the center */
+  align-items: center;
+  /* Set the flex direction to column */
+  flex-direction: column;
+  /* Set the background color to a light gray */
+  background-color: #f0f0f0;
+  /* Set the min-height to 100vh */
+  min-height: 100vh;
+}
+
+/* Define some styles for the App header */
+.App-header {
+  /* Set the background color to a dark blue */
+  background-color: #3f51b5;
+  /* Set the color to white */
+  color: white;
+  /* Set the padding to 20px */
+  padding: 20px;
+  /* Set the width to 100% */
+  width: 100%;
+}
+
+/* Define some styles for the App main */
+.App-main {
+  /* Set the padding to 20px */
+  padding: 20px;
+  /* Set the width to 80% */
+  width: 80%;
+}
+
+/* Define some styles for the App footer */
+.App-footer {
+  /* Set the background color to a dark gray */
+  background-color: #282c34;
+  /* Set the color to white */
+  color: white;
+  /* Set the padding to 20px */
+  padding: 20px;
+  /* Set the width to 100% */
+  width: 100%;
+}

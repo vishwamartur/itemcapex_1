@@ -1,0 +1,45 @@
+/* Define some styles for the footer element */
+footer {
+  /* Set the background color to a dark blue */
+  background-color: #3f51b5;
+  /* Set the color to white */
+  color: white;
+  /* Set the padding to 20px */
+  padding: 20px;
+}
+
+/* Define some styles for the footer title */
+.footer-title {
+  /* Set the font size to 24px */
+  font-size: 24px;
+  /* Set the font weight to bold */
+  font-weight: bold;
+  /* Center the text horizontally */
+  text-align: center;
+}
+
+/* Define some styles for the footer links */
+.footer-links {
+  /* Set the display to flex */
+  display: flex;
+  /* Align the items to the center */
+  align-items: center;
+  /* Justify the content to the space around */
+  justify-content: space-around;
+}
+
+/* Define some styles for the footer link */
+.footer-link {
+  /* Set the text decoration to none */
+  text-decoration: none;
+  /* Set the color to white */
+  color: white;
+  /* Set the padding to 10px */
+  padding: 10px;
+}
+
+/* Define some styles for the footer link when hovered */
+.footer-link:hover {
+  /* Set the background color to a lighter blue */
+  background-color: #5c6bc0;
+}

@@ -1,0 +1,74 @@
+/* Define some global styles for the body element */
+body {
+  /* Set the background color to a light gray */
+  background-color: #f0f0f0;
+  /* Set the font family to a sans-serif font */
+  font-family: Arial, Helvetica, sans-serif;
+  /* Set the margin and padding to zero */
+  margin: 0;
+  padding: 0;
+}
+
+/* Define some styles for the header element */
+header {
+  /* Set the background color to a dark blue */
+  background-color: #3f51b5;
+  /* Set the color to white */
+  color: white;
+  /* Set the padding to 20px */
+  padding: 20px;
+}
+
+/* Define some styles for the footer element */
+footer {
+  /* Set the background color to a dark gray */
+  background-color: #282c34;
+  /* Set the color to white */
+  color: white;
+  /* Set the padding to 20px */
+  padding: 20px;
+}
+
+/* Define some styles for the container element */
+.container {
+  /* Set the width to 80% of the viewport */
+  width: 80vw;
+  /* Center the element horizontally */
+  margin: 0 auto;
+}
+
+/* Define some styles for the card element */
+.card {
+  /* Set the background color to white */
+  background-color: white;
+  /* Set the box shadow to create a 3D effect */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* Set the transition duration to 0.3s */
+  transition: 0.3s;
+}
+
+/* Define some styles for the card element when hovered */
+.card:hover {
+  /* Increase the box shadow to create a more 3D effect */
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Define some styles for the card media element */
+.card-media {
+  /* Set the height to 200px */
+  height: 200px;
+}
+
+/* Define some styles for the card content element */
+.card-content {
+  /* Set the padding to 16px */
+  padding: 16px;
+}
+
+/* Define some styles for the card actions element */
+.card-actions {
+  /* Set the padding to 16px */
+  padding: 16px;
+  /* Align the elements to the right */
+  text-align: right;
+}
